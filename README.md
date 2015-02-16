@@ -1,2 +1,2 @@
 # helloworld
-a short discription
+Тема курсового проекта: ""
